@@ -5,3 +5,17 @@
 
 个人习惯用三个双引号做注释，文档字符串等。三个单引号用作程序逻辑
 '''
+
+s1 = 'Hello World'
+
+s2 = "Hello World"
+
+s3 = '''
+Hello
+World
+'''
+
+s4 = """
+Hello
+World
+"""
